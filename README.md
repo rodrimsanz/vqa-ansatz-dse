@@ -1,5 +1,7 @@
 # Efficiently architecting VQAs: code repository
 
+![Repository overview](assets/Main_figure.png)
+
 This repository contains the code accompanying the paper:
 
 **Efficiently architecting VQAs: Expressibility--Trainability--Resources Pareto-Optimality**  
