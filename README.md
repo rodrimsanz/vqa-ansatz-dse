@@ -1,6 +1,6 @@
 # Efficiently architecting VQAs: code repository
 
-![Repository overview](assets/Main_figure.png)
+![Repository overview](assets/main_figure.png)
 
 This repository contains the code accompanying the paper:
 
