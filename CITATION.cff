@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Efficiently architecting VQAs: code repository"
+message: "If you use this repository, please cite the associated paper."
+type: software
+authors:
+  - family-names: "Sanz"
+    given-names: "Rodrigo M."
+repository-code: "https://github.com/rodrimsanz/vqa-ansatz-dse"
+url: "https://github.com/rodrimsanz/vqa-ansatz-dse"
+license: "MIT"
+abstract: "Code accompanying the paper on expressibility, trainability, and resource-aware design space exploration of variational quantum ansatzes."
